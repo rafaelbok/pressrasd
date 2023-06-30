@@ -247,7 +247,7 @@ const LoggedInLayout = ({ children }) => {
                         noWrap
                         className={classes.title}
                     >
-                        {i18n.t("mainDrawer.appBar.message.hi")} {user.name}, {i18n.t("mainDrawer.appBar.message.text")} {system.name || "WaSap"}
+                        {i18n.t("mainDrawer.appBar.message.hi")} {user.name}, {i18n.t("mainDrawer.appBar.message.text")} {system.name || "RasDesenv"}
                     </Typography>
                     {user.id && <NotificationsPopOver />}
 

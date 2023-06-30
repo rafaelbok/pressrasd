@@ -102,5 +102,5 @@ sleep 2
 pm2 restart all
 
 echo " "
-echo "WASAP ATUALIZADO COM SUCESSO!!!"
+echo "RASDESENV ATUALIZADO COM SUCESSO!!!"
 echo " "
